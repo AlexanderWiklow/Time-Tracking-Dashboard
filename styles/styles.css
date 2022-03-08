@@ -1,0 +1,27 @@
+/* NEUTRAL */
+* {
+  margin: 0;
+  padding: 0;
+  -webkit-box-sizing: border-box;
+          box-sizing: border-box;
+}
+
+html {
+  font-size: 62.5%;
+}
+
+body {
+  font-family: 'Rubik', sans-serif;
+  font-size: 18px;
+}
+
+body {
+  background-color: #0f1424;
+}
+
+.container {
+  border: 1px solid red;
+  width: 88%;
+  margin: 2rem auto;
+}
+/*# sourceMappingURL=styles.css.map */
